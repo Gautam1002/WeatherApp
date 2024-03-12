@@ -1,4 +1,5 @@
 // This is my contribution
+// This is my newbranch contribution
 const API_KEY = "490d29383ee926971139befa321ac9ec";
 
 const DAYS_OF_THE_WEEK = ["sun", "mon", "tue" ,"wed","thu","fri","sat"];
